@@ -11,7 +11,8 @@ Data Science & Analytics Tools: Machine Learning (ML), Predictive Analytics, Mic
 Developing conversational AI framework for enterprise-wide applications in the health sector, including a dialogue system improving patient care for oncology department. Integrating natural language understanding and generation capabilities to enhance user experience and interactions.
 
 ### 🤝 Social
-[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][https://www.linkedin.com/in/vanessamiranda]
+[https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fvanessamiranda1%3Fs%3D21%26t%3DAfKuSg8NyjpLOwGtzbe0uA]
+
 
 <!--
 **vanessamiranda/vanessamiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
