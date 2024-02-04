@@ -24,8 +24,6 @@ I'm Vanessa, a passionate and seasoned data-driven professional with a talent fo
 
 ### Additional Technologies:
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=blockchain&logoColor=white)
-
-### Miscellaneous
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-0769AD?style=flat-square&logo=machine-learning&logoColor=white)
 ![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-013243?style=flat-square&logo=analytics&logoColor=white)
 ![Microsoft Power Automate RPA & Cloud Flow](https://img.shields.io/badge/Microsoft_Power_Automate-1368E4?style=flat-square&logo=microsoft&logoColor=white)
