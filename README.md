@@ -22,7 +22,7 @@ I'm Vanessa, a passionate and seasoned data-driven professional with a talent fo
 ![Information Retrieval](https://img.shields.io/badge/Information_Retrieval-4479A1?style=flat-square&logo=machine-learning&logoColor=white)
 ![Recommender Engines](https://img.shields.io/badge/Recommender_Engines-F7931E?style=flat-square&logo=machine-learning&logoColor=white)
 
-### Additional Technologies
+### Additional Technologies:
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=blockchain&logoColor=white)
 
 ### Miscellaneous
@@ -36,7 +36,7 @@ I'm Vanessa, a passionate and seasoned data-driven professional with a talent fo
 ### 🌱 Volunteer Endeavors:
 Developing conversational AI framework for enterprise-wide applications in the health sector, including a dialogue system improving patient care for oncology department. Integrating natural language understanding and generation capabilities to enhance user experience and interactions.
 
-### 🤝Connect with me::
+### 🤝Connect with me:
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fvanessamiranda1%3Fs%3D21%26t%3DAfKuSg8NyjpLOwGtzbe0uA)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessamiranda/)
 
