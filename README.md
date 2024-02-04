@@ -1,6 +1,8 @@
 ## 👋 Hi there 
 I'm Vanessa, a passionate and seasoned data-driven professional with a talent for transforming raw data into actionable insights. My journey is characterized by a fusion of technical proficiency and strategic thinking, focusing on crafting solutions that address real-world challenges through code. Let's connect and explore how my skills can contribute to the success of your team! 🚀
 
+My interest: Saving the World, One Line at a Time! 🌎💻
+
 ### 🔧 Language and tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
@@ -34,7 +36,7 @@ I'm Vanessa, a passionate and seasoned data-driven professional with a talent fo
 ### 🌱 Volunteer Endeavors:
 Developing conversational AI framework for enterprise-wide applications in the health sector, including a dialogue system improving patient care for oncology department. Integrating natural language understanding and generation capabilities to enhance user experience and interactions.
 
-### 🤝Connect with me:
+### 🌐 Find me around the web 
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fvanessamiranda1%3Fs%3D21%26t%3DAfKuSg8NyjpLOwGtzbe0uA)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessamiranda/)
 
