@@ -1,5 +1,5 @@
-## 👋 Hi there 
-I'm Vanessa, a passionate and seasoned data-driven professional with a talent for transforming raw data into actionable insights. My journey is characterized by a fusion of technical proficiency and strategic thinking, focusing on crafting solutions that address real-world challenges through code. Let's connect and explore how my skills can contribute to the success of your team! 🚀
+## 👋 Hi there!  I'm Vanessa. 
+A passionate and seasoned data-driven professional with a talent for transforming raw data into actionable insights. My journey is characterized by a fusion of technical proficiency and strategic thinking, focusing on crafting solutions that address real-world challenges through code. Let's connect and explore how my skills can contribute to the success of your team! 🚀
 
 My interest: Saving the World, One Line at a Time! 🌎💻
 
