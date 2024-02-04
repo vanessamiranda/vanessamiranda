@@ -3,9 +3,6 @@
 I'm Vanessa, a passionate and seasoned data-driven professional with a talent for transforming raw data into actionable insights. My journey is characterized by a fusion of technical proficiency and strategic thinking, focusing on crafting solutions that address real-world challenges through code. Let's connect and explore how my skills can contribute to the success of your team! 🚀
 
 ### 🔧 Language and tools:
- <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-          
-          
 NLP: TF-IDF, Few shot learning, RAG LLM Chatbot, Fine-Tuning, Information Retrieval, Recommender Engines, LangChain
 Technical Skills: Python, R, SQL, JavaScript, HTML, JSON, PyTorch, NumPy, Pandas, Matplotlib, Seaborn, Tableau, Sklearn
 Data Science & Analytics Tools: Machine Learning (ML), Predictive Analytics, Microsoft Power Automate RPA & Cloud Flow, Chroma, FAISS, Microsoft Power App
