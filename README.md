@@ -40,7 +40,7 @@ Developing conversational AI framework for enterprise-wide applications in the h
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fvanessamiranda1%3Fs%3D21%26t%3DAfKuSg8NyjpLOwGtzbe0uA)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessamiranda/)
 
-![Saving the World, One Code at a Time](url_to_your_gif.gif)
+ 
 
 
   
