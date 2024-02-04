@@ -9,6 +9,10 @@ Data Science & Analytics Tools: Machine Learning (ML), Predictive Analytics, Mic
 
 ### 🌱 Volunteer Endeavors
 Developing conversational AI framework for enterprise-wide applications in the health sector, including a dialogue system improving patient care for oncology department. Integrating natural language understanding and generation capabilities to enhance user experience and interactions.
+
+### 🤝 Social
+[![linkedin](https://github.com/shikhar1020jais1/Git-Social/blob/master/Icons/LinkedIn.png (LinkedIn))][https://www.linkedin.com/in/vanessamiranda]
+
 <!--
 **vanessamiranda/vanessamiranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
